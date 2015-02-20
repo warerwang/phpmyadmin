@@ -1,4 +1,5 @@
 <?php
+$i = 1;
 $cfg['Servers'][$i]['nopassword'] = true;
 $cfg['Servers'][$i]['AllowNoPassword'] = true;
 
