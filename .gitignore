@@ -1,7 +1,6 @@
 # Directory for creating releases
 /release/
 # Configuration files
-/config.inc.php
 /config.header.inc.php
 /config.footer.inc.php
 # Upload/save dirs
@@ -25,7 +24,6 @@ phpmyadmin.wpj
 # IIS files
 web.config
 # Locales
-/locale/
 # Backups
 *~
 # Javascript line counts
